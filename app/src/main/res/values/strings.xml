@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tube Times Sample App</string>
+
+    <!-- Nearby StopPoints screen -->
+    <string name="arrival_msg_mins_to_stop">%d min</string>
+    <string name="arrival_msg_one_min_to_stop">1 min</string>
+    <string name="arrival_msg_due">Due</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ArrivalStyle">
+        <item name="android:background">?android:attr/selectableItemBackground</item>
+        <item name="android:layout_marginLeft">@dimen/arrival_margin_start</item>
+        <item name="android:layout_marginStart">@dimen/arrival_margin_start</item>
+    </style>
+</resources>
